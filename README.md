@@ -23,3 +23,6 @@ We are using the [NOAA Atlantic Hurricane Dataset](https://www.kaggle.com/datase
   - Artificial Neural Networks (TensorFlow)
   - Recurrent Neural Networks (LSTMs in TensorFlow)
 - **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score, and ROC-AUC.
+
+https://www.nhc.noaa.gov/data/hurdat/hurdat2-format-atl-1851-2021.pdf
+https://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2023-051124.txt

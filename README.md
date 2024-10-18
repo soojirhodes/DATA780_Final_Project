@@ -6,7 +6,7 @@ This repository contains the work for the UNC MADS DATA780 final project, where 
 
 ## Authors
 - **Hubert Hwang**
-- - **Sooji Rhodes**
+- **Sooji Rhodes**
 
 ## Project Overview
 
